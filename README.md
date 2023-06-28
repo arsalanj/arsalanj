@@ -8,32 +8,12 @@ Software Engineer with a passion for app development. I have over 8 years of exp
 
 ## Skills
 
-- Swift, Objective-C, SwiftUI, Xcode, Instruments
-- UIKit, CoreData, ARC, Networking, GCD, Async/Await
-- MVVM, MVC, VIPER, DI, Singleton, SOLID
-- Cocoapods, SPM, XCFramework, POP
-- Flutter, Dart, Firebase, RxSwift, Alamofire
+- Swift, Objective-C, SwiftUI
+- Flutter, Dart
+- C, C++ 
 
-## Work Experience
-
-### Senior Software Engineer - Mobile(iOS) at SPIRE Technologies
-August 2022 - March 2023
-
-- Spearheaded the development and implementation of Personal Finance Management modules based on Open-Banking, reducing bugs by 80% within a month.
-- Led the expansion of customer-facing modules onto the web using Flutter, resulting in increased user accessibility and consistent experience across platforms.
-
-### Senior Software Engineer at Codelabs.inc
-January 2020 - July 2022
-
-- Led the mobile software development team, delivering multiple applications and frameworks for iOS and Flutter.
-- Successfully developed an MVP in Flutter for a medical/healthcare app, which later transformed into the widely-known and used app Humwell.
-
-### iOS Developer at Mycart
-March 2018 - July 2019
-
-- Contributed to the development and enhancement of the Mycart application, resolving bugs and adding new functionalities.
-
-Feel free to reach out to me via email or LinkedIn. I am always excited to collaborate on new and challenging projects.
+ 
+📫 Feel free to reach out to me via email or LinkedIn. I am always excited to collaborate on new and challenging projects.
 
 
 <!--
