@@ -4,7 +4,7 @@
 
 ## About Me
 
-✨ 8+ years of skilled application development experience
+✨ 8+ years of software development experience
 
 📱 Native iOS specialist with 5+ App Store launches
 
