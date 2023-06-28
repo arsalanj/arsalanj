@@ -4,7 +4,25 @@
 
 ## About Me
 
-Software Engineer with a passion for app development. I have over 8 years of experience in the field, specializing in Swift and Objective-C. My expertise extends to cross-platform development using Flutter. I enjoy pushing boundaries, delivering high-quality software solutions, and staying up-to-date with the latest technologies.
+✨ 8+ years of skilled application development experience
+
+📱 Native iOS specialist with 5+ App Store launches
+
+🚀 Cross-platform expertise using Flutter with 8+ applications
+
+🔌 Developed 6+ libraries(pods, frameworks,packages in Swift) and 2+ Dart plugins/packages for seamless integration
+
+⚡ Crafting cutting-edge and rapid MVPs with a unique touch of innovation for accelerated success. 
+
+💡 Proficient in C/C++, did WebRTC and embedded firmware modification, and making web scraping and related apps using MERN 
+
+🌟 Quick learner, dedicated professional, and agile problem solver
+
+Passionate about creating innovative solutions and collaborating in dynamic environments. Ready to contribute to impactful projects with my expertise and dedication.
+
+
+Experienced in :
+SDLC | Design Patterns: MVC, MVVM, MVP, VIPER | Clean code arch. | Testing: Unit Testing, UI Testing, XCTest, TDD
 
 ## Skills
 
