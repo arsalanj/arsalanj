@@ -1,6 +1,6 @@
 # Muhammad Mehdi
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Portfolio](https://www.yourportfolio.com) | [Email](mailto:arsalanjaf@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Portfolio](https://www.yourportfolio.com) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://shorturl.at/sxEM0) 
 
 ## About Me
 
