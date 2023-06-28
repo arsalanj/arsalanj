@@ -4,7 +4,7 @@
 
 ## About Me
 
-Accomplished Senior Software Engineer with a passion for iOS app development. I have over 8 years of experience in the field, specializing in Swift and Objective-C. My expertise extends to cross-platform development using Flutter. I enjoy pushing boundaries, delivering high-quality software solutions, and staying up-to-date with the latest technologies.
+Software Engineer with a passion for app development. I have over 8 years of experience in the field, specializing in Swift and Objective-C. My expertise extends to cross-platform development using Flutter. I enjoy pushing boundaries, delivering high-quality software solutions, and staying up-to-date with the latest technologies.
 
 ## Skills
 
