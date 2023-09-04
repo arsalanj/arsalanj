@@ -1,9 +1,6 @@
 # 👋 Hi, Muhammad Mehdi here
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://tinyurl.com/MMehdiCV) 
-
-
- ### 💼 **[My Portfolio](https://github.com/arsalanj/Mobile-Developer-Portfolio)**
+### 💼 **[My Portfolio](https://github.com/arsalanj/Mobile-Developer-Portfolio)**
 <div style="display:flex;justify-content:center;">
 
 
@@ -40,3 +37,7 @@ SDLC | Design Patterns: MVC, MVVM, MVP, VIPER | Clean code arch. | Testing: Unit
 - 🔥 Firebase
 - 📍 MapKit
 - ❇️ WidgetKit
+
+📫 Feel free to reach out to me via email or LinkedIn. I am always excited to collaborate on new and challenging projects.
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://tinyurl.com/MMehdiCV) 
