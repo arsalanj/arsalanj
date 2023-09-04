@@ -1,6 +1,6 @@
 # 👋 Hi, Muhammad Mehdi here
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://shorturl.at/sxEM0) 
+[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://tinyurl.com/MMehdiCV) 
 
 
  ### 💼 **[My Portfolio](https://github.com/arsalanj/Mobile-Developer-Portfolio)**
