@@ -1,10 +1,15 @@
-# Muhammad Mehdi
+# 👋 Hi, Muhammad Mehdi here
 
-[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Portfolio](https://www.yourportfolio.com) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://shorturl.at/sxEM0) 
+[LinkedIn](https://www.linkedin.com/in/muhammad-mehdi) | [Email](mailto:arsalanjaf@gmail.com) | [Resume](https://shorturl.at/sxEM0) 
+
+
+ ### 💼 **[My Portfolio](https://github.com/arsalanj/Mobile-Developer-Portfolio)**
+<div style="display:flex;justify-content:center;">
+
 
 ## About Me
 
-✨ 8+ years of software development experience
+📚 Self-taught developer with 8+ years of software development experience.
 
 📱 Native iOS specialist with 5+ App Store launches
 
@@ -14,7 +19,7 @@
 
 ⚡ Crafting cutting-edge and rapid MVPs with a unique touch of innovation for accelerated success. 
 
-💡 Proficient in C/C++, did WebRTC and embedded firmware modification, and making web scraping and related apps using MERN 
+💡 Proficient in C/C++, worked on WebRTC and embedded firmware modification, and made web scraping and related apps using MERN 
 
 🌟 Quick learner, dedicated professional, and agile problem solver
 
@@ -26,25 +31,12 @@ SDLC | Design Patterns: MVC, MVVM, MVP, VIPER | Clean code arch. | Testing: Unit
 
 ## Skills
 
-- Swift, Objective-C, SwiftUI
-- Flutter, Dart
-- C, C++ 
-
- 
-📫 Feel free to reach out to me via email or LinkedIn. I am always excited to collaborate on new and challenging projects.
-
-
-<!--
-**arsalanj/arsalanj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 C, C++
+- 🚀 Swift, Objective-C
+- 🌟 Flutter, Dart
+- 🎨 SwiftUI
+- 📲 UIKit
+- 💽 Core Data
+- 🔥 Firebase
+- 📍 MapKit
+- ❇️ WidgetKit
